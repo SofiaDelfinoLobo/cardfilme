@@ -17,7 +17,7 @@ h1{
 }
 h2{
     text-align: center;
-    color: darkred;
+    color: rgb(120, 192, 26);
 }
 .card{
     width: 400px;
@@ -60,5 +60,10 @@ h2{
     color: forestgreen;
     text-decoration: none;
     font-size: 20px;
+
+}
+
+.card__rosa{
+    background-color: pink;
 
 }
